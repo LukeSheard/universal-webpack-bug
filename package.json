@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "css-loader": "^0.26.1",
+    "normalize.css": "^5.0.0",
+    "style-loader": "^0.13.1",
+    "universal-webpack": "^0.2.1",
+    "webpack": "^2.2.0-rc.3"
+  }
+}
